@@ -1,0 +1,1 @@
+<h1> Le password doit contenir au moins 8 caractère, avec un caractère spécial et un nombre. </h1>

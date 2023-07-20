@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Philtre d'Amour Amortentia",
+      "price": 700,
+      "description": "Offrez-vous une expérience magique avec le Philtre d'Amour Amortentia. Cette potion au parfum enivrant a le pouvoir de faire tomber n'importe qui amoureux de vous. Avertissement : À utiliser avec prudence et responsabilité !"
+    },
+    {
+      "id": 2,
+      "title": "Poudre de Cheminette Enflammée",
+      "price": 800,
+      "description": "Voyagez en un instant avec notre Poudre de Cheminette Enflammée. Parfaite pour ceux qui souhaitent échapper à l'ordinaire et se retrouver dans un endroit exotique. Attention : Assurez-vous de bien prononcer votre destination !"
+    },
+    {
+      "id": 3,
+      "title": "Gallion d'Or Brillant",
+      "price": 900,
+      "description": "Améliorez votre fortune avec notre Gallion d'Or Brillant. Cette monnaie magique vous donnera un avantage dans le monde des sorciers. Note : N'est pas échangeable dans le monde des moldus."
+    },
+    {
+      "id": 4,
+      "title": "Gâteau de Fiole de Felix Felicis",
+      "price": 1000,
+      "description": "Goûtez à la chance avec notre Gâteau de Fiole de Felix Felicis. Cette délicatesse sucrée vous procurera une journée de bonne fortune. Attention : Ne pas utiliser lors d'événements sportifs magiques."
+    },
+    {
+      "id": 5,
+      "title": "Rapeltout Lumineux",
+      "price": 800,
+      "description": "Ne manquez plus jamais un rendez-vous important avec notre Rapeltout Lumineux. Cette petite boule de verre devient rouge lorsqu'il y a quelque chose que vous avez oublié. Note : Ne vous rappelle pas ce que vous avez oublié."
+    },
+    {
+      "id": 6,
+      "title": "Hibou Messager Rapide",
+      "price": 1500,
+      "description": "Envoyez des messages à travers le monde des sorciers avec notre Hibou Messager Rapide. Il s'assurera que votre message arrive à temps et en toute sécurité. Note : N'est pas responsable des éraflures dues aux becs de hiboux."
+    }
+],
+  "most-active-stock" : {
+    "symbol" : "STOCK A",
+    "price" : 351.0
+  },
+  "top-gaining-stock" : {
+    "symbol" : "STOCK B",
+    "price" : 50.0
+  },
+  "top-losing-stock" : {
+    "symbol" : "STOCK C",
+    "price" : 100.0
+  },
+  "postcodes": [
+    {
+      "postcode": "E3 4NA",
+      "postcode_inward": "4NA",
+      "postcode_outward": "E3",
+      "town":"LONDON",
+      "post_town": "LONDON",
+      "dependant_locality": "",
+      "double_dependant_locality": "",
+      "thoroughfare": "Wellington Bay",
+      "dependant_thoroughfare": "",
+      "building_number": "",
+      "building_name": "Wellington Building",
+      "street": "Wellington Bay",
+      "sub_building_name": "Flat1",
+      "po_box": "",
+      "department_name": "",
+      "udprn": "23749954",
+      "postcode_type": "S",
+      "su_organisation_indicator": "",
+      "delivery_point_suffix": "1A",
+      "line_1": "Flat1, Wellington Building",
+      "line_2": "Wellington Bay",
+      "line_3": "",
+      "premise": "Flat1, Wellington Building",
+      "longitude": 0.023906,
+      "latitude": 51.520058,
+      "eastings": 535650,
+      "northings": 182650,
+      "country": "England",
+      "traditional_county": "Greater London",
+      "administrative_county": "",
+      "postal_county": "London",
+      "district": "Tower Hamlets",
+      "ward": "Bow East",
+      "uprn": "100021050000",
+      "id":"1",
+      "country_code": "E92000001",
+      "district_code": "E09000030",
+      "ward_code": "E05009328",
+      "language": "en",
+      "umprn": "23749954",
+      "dataset" : "paf"     
+    },
+    {
+      "postcode": "WZ9 9ZZ",
+      "postcode_inward": "9ZZ",
+      "postcode_outward": "WZ9",
+      "town": "WIZARDSVILLE",
+      "post_town": "WIZARDSVILLE",
+      "dependant_locality": "",
+      "double_dependant_locality": "",
+      "thoroughfare": "Wizardry Lane",
+      "dependant_thoroughfare": "",
+      "building_number": "",
+      "building_name": "Spellbound Manor",
+      "street": "Wizardry Lane",
+      "sub_building_name": "Apartment 5",
+      "po_box": "",
+      "department_name": "",
+      "udprn": "13579246",
+      "postcode_type": "S",
+      "su_organisation_indicator": "",
+      "delivery_point_suffix": "9A",
+      "line_1": "Apartment 5, Spellbound Manor",
+      "line_2": "Wizardry Lane",
+      "line_3": "",
+      "premise": "Apartment 5, Spellbound Manor",
+      "longitude": -0.987654,
+      "latitude": 51.876543,
+      "eastings": 600000,
+      "northings": 700000,
+      "country": "England",
+      "traditional_county": "Wizardsville County",
+      "administrative_county": "",
+      "postal_county": "Wizardsville",
+      "district": "Wizardsville District",
+      "ward": "Wizardsville Ward",
+      "uprn": "24681357",
+      "id": "5",
+      "country_code": "E92000001",
+      "district_code": "E09000002",
+      "ward_code": "E05000002",
+      "language": "en",
+      "umprn": "56789123",
+      "dataset": "wizarding_world"
+    },
+    {
+      "postcode": "HP1 1HP",
+      "postcode_inward": "1HP",
+      "postcode_outward": "HP1",
+      "town": "HOGSMEADE",
+      "post_town": "HOGSMEADE",
+      "dependant_locality": "",
+      "double_dependant_locality": "",
+      "thoroughfare": "Wizarding Way",
+      "dependant_thoroughfare": "",
+      "building_number": "4",
+      "building_name": "The Burrow",
+      "street": "Wizarding Way",
+      "sub_building_name": "",
+      "po_box": "",
+      "department_name": "",
+      "udprn": "12345678",
+      "postcode_type": "S",
+      "su_organisation_indicator": "",
+      "delivery_point_suffix": "1A",
+      "line_1": "The Burrow",
+      "line_2": "Wizarding Way",
+      "line_3": "",
+      "premise": "The Burrow",
+      "longitude": -0.987654,
+      "latitude": 51.876543,
+      "eastings": 600000,
+      "northings": 700000,
+      "country": "England",
+      "traditional_county": "Hogsmeade County",
+      "administrative_county": "",
+      "postal_county": "Hogsmeade",
+      "district": "Hogsmeade District",
+      "ward": "Hogsmeade Ward",
+      "uprn": "98765432",
+      "id": "7",
+      "country_code": "E92000001",
+      "district_code": "E09000001",
+      "ward_code": "E05000001",
+      "language": "en",
+      "umprn": "87654321",
+      "dataset": "wizarding_world"
+    }
+  ],
+  "featured-products": [
+    {
+      "id": 1,
+      "title": "Bière au Beurre Exquise",
+      "price": 750,
+      "description": "Goûtez à notre Bière au Beurre Exquise, une délicatesse débordante de saveurs sucrées et crémeuses. Parfaite pour une soirée cosy à Pré-au-Lard. Attention, peut causer des sourires constants !"
+    },
+    {
+      "id": 2,
+      "title": "Chocogrenouille Envoûtante",
+      "price": 850,
+      "description": "Découvrez la Chocogrenouille Envoûtante, une friandise chocolatée aussi bondissante que savoureuse. Chaque chocogrenouille est accompagnée d'une carte de sorcier célèbre. Préparez-vous pour un délice à la fois délicieux et éducatif !"
+    },
+    {
+      "id": 3,
+      "title": "Baguette Magique de la Flamme Fougueuse",
+      "price": 950,
+      "description": "Domptez l'incroyable pouvoir de la Baguette Magique de la Flamme Fougueuse. Parfaite pour ceux qui aiment vivre intensément et qui n'ont pas peur de faire des étincelles. À noter : n'est pas responsable des sorts incontrôlés !"
+    },
+    {
+      "id": 4,
+      "title": "Cape d'Invisibilité Illusoire",
+      "price": 1250,
+      "description": "Goûtez à l'invisible avec notre Cape d'Invisibilité Illusoire. Évadez-vous des yeux indiscrets et laissez libre cours à votre esprit d'aventure. Remarque : Ne garantit pas la protection contre le sortilège de détection des invisibles."
+    },
+    {
+      "id": 5,
+      "title": "Marauder's Map Mystique",
+      "price": 1500,
+      "description": "Échappez à l'ordinaire avec notre Marauder's Map Mystique. Idéale pour naviguer dans les moindres recoins de Poudlard. Avertissement : Utilisez le mot de passe 'Je jure solennellement que mes intentions sont mauvaises' pour l'activer."
+    },
+    {
+      "id": 6,
+      "title": "Plume à Encre Auto-répliquante",
+      "price": 600,
+      "description": "Simplifiez-vous la vie avec notre Plume à Encre Auto-répliquante. Parfaite pour ceux qui aiment écrire, mais qui détestent constamment tremper leur plume dans l'encre. Note : N'est pas recommandé pour les examens de B.U.S.E."
+    }
+]
+
+}

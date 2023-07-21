@@ -1,6 +1,3 @@
-
-
-
 export const load = async (serverLoadEvent) => {
     console.log("Load function called in page.server.js")
     const { fetch } = serverLoadEvent;

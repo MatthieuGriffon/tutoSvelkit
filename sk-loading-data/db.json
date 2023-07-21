@@ -39,16 +39,32 @@
 ],
   "most-active-stock" : {
     "symbol" : "STOCK A",
-    "price" : 351.0
+    "price" : 551.0
   },
   "top-gaining-stock" : {
     "symbol" : "STOCK B",
-    "price" : 50.0
+    "price" : 150.0
   },
   "top-losing-stock" : {
     "symbol" : "STOCK C",
     "price" : 100.0
   },
+
+  "stocks": [
+    {
+      "symbol": "STOCK D",
+      "price": 847.0
+    },
+    {
+      "symbol": "STOCK E",
+      "price": 1100.0  
+    },
+    {
+      "symbol": "STOCK F",
+      "price": 404.0
+    }
+  ],
+
   "postcodes": [
     {
       "postcode": "E3 4NA",

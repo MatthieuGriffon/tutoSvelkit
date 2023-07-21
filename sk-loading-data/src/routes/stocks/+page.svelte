@@ -1,15 +1,16 @@
 <script>
+    import { invalidateAll } from '$app/navigation';
     export let data;
+
+    function refresh () {
+        invalidateAll ();
+    }
 </script>
 
-<span>Most active stock - {data.mostActiveStock.symbol}</span>
-<span>Top gaining stock - {data.topGainingStock.symbol}</span>
-<span>Top Losing stock - {data.topLosingStock.symbol}</span>
+<h1>Actively trading stocks</h1>
 
-<slot />
- <style>
-    span {
-        margin-right: 30px;
-        font-size: 24px;
-    }
- </style>
+{#each data.stocks as stock}
+    <h2>{stock.symbol}- ${stock.price}</h2>
+{/each}
+
+<button on:click={refresh}>Refresh</button>

@@ -4,7 +4,7 @@ export const load = async (serverLoadEvent) => {
     const { fetch, params, url, route  } = serverLoadEvent;
     console.log({ params, url, route: route.id})
     const { productId} = params;
-    if (productId > 3 ) {
+    if (productId > 6 ) {
         //throw error (404, { message: 'Oh no! Looks like the product you are looking for does not exist.',
                             //hint: 'Try a different product id',
                             //});

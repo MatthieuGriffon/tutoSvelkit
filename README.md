@@ -1,4 +1,5 @@
 My SvelteKit Project
+
 This repository is the outcome of my learning and practice with SvelteKit, a modern web development framework. I followed a comprehensive tutorial and covered a range of topics from initializing a new project to handling API requests.
 
 Live Demo

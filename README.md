@@ -53,7 +53,4 @@ While this project is primarily a learning exercise, any contributions or sugges
 License
 This project is licensed under MIT.
 
-Author
-[Your name]
-
 If you have any questions about this project or wish to discuss it, feel free to reach out.
